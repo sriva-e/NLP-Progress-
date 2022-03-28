@@ -1,5 +1,5 @@
 # NLP-Progress-
-Sentimental analysis on YELP reviews of Las Vegas Resorts 
+First Notebook : Sentimental analysis on YELP reviews of Las Vegas Resorts 
 
 In the first  notebook, I started by doing some exploratory analysis on the given data set 
 And found out more information, such as :
