@@ -1,7 +1,7 @@
 # NLP-Progress-
 Sentimental analysis on YELP reviews of Las Vegas Resorts 
 
-In this notebook, I started by doing some exploratory analysis on the given data set 
+In the first  notebook, I started by doing some exploratory analysis on the given data set 
 And found out more information, such as :
 
 1.the given dataset such as there were  46644 reviews , when I calculated by considering non-null review_id because I assumed those are unique. 
