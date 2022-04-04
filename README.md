@@ -16,3 +16,8 @@ Vast majority of the sentiment polarity scores are greater than zero, means most
 Then I tried to find degree of correlation between polarity and review ratings which helped me to 
 conclude that People who travel Business class give the best reviews as opposed to people who travel solo. 
 
+In the second notebook, I have made a multi-class classifier for an online ecommerce review textual dataset.
+
+The dataset contains 5000 reviews and there are 20 different lables for this label, I have used different algorithms to make a multi class classifier which categories the reviews under their respective lables and does the same for new reviews.
+
+I have used Naive Bayes,KNN,Decision tree and Logistic Regression to make 4 different models for my multi class classifier , I have also shown accuracy for all the models implemented and showed classification report,confusion matrix and accuarcy score for every model.
